@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Almacen</string>
+    <string-array name="familia">
+        <item>SOFTWARE</item>
+        <item>HARDWARE</item>
+        <item>ALTRES</item>
+        <item>NULL</item>
+    </string-array>
+</resources>

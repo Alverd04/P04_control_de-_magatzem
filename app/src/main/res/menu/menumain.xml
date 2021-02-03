@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/descripcio_filtre_btn"
+        android:title="Descripció" />
+    <item
+        android:id="@+id/descripcio_estoc_btn"
+        android:title="Descripció i estoc" />
+    <item
+        android:id="@+id/default_btn"
+        android:title="Default" />
+</menu>

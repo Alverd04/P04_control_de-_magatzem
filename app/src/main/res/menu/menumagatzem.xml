@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/moviments_per_dia_select"
+        android:title="Moviments per dia" />
+    <item
+        android:id="@+id/intervals_de_temps_select"
+        android:title="Interval de temps" />
+    <item
+        android:id="@+id/llistat_complet_select"
+        android:title="Llistat complet" />
+</menu>
